@@ -1,4 +1,4 @@
-#OneDrive auto migration
+# OneDrive auto migration
 
 This is a simple script to migrate files between OneDrive accounts.
 
